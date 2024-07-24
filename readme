@@ -1,0 +1,36 @@
+# Responsive Landing Page
+
+## Project Overview
+
+The Responsive Landing Page project aims to create an interactive and visually appealing navigation menu. This menu will change its appearance based on user interactions, such as scrolling and hovering. The page is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
+
+## Project Details
+
+- **Project Title**: Responsive Landing Page
+- **Internship Domain**: Web Development Intern
+- **Assigned By**: Prasunet Company Internship
+- **Assigned To**: Paramveer Singh Rajpurohit
+- **Start Date**: 01 Jul 2024
+- **End Date**: 30 Jul 2024
+
+## Description
+
+The primary goal of this project is to develop an interactive navigation menu with the following features:
+
+- **Fixed Position**: The navigation menu should be fixed at the top of the page and remain visible as users scroll.
+- **Interactive Design**: The menu's background color or style should change dynamically based on user interactions:
+- **Scrolling**: Change color or style when the user scrolls the page.
+- **Hovering**: Change color or style when hovering over a menu item.
+- **Cross-Page Visibility**: The navigation menu should be visible and consistent across all pages.
+
+## Technologies Used
+
+- **HTML**: To structure the navigation menu.
+- **CSS**: To style the menu and make it responsive.
+- **JavaScript**: To add interactivity, such as color changes on scroll and hover.
+
+## Usage
+
+-**Homepage**: The main page features the interactive navigation menu.
+-**Scrolling**: Observe how the menu's style changes as you scroll.
+-**Hovering**: Hover over different menu items to see the style changes.
